@@ -1,5 +1,7 @@
 # product
 
+The primary database holding business data. Available through message queue RPC calls.
+
 ## Queues
 
 ### getProduct
